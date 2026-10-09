@@ -1,0 +1,53 @@
+# Node dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing & Coverage
+coverage/
+.nyc_output/
+
+# Next.js build output
+.next/
+out/
+build/
+dist/
+
+# Environment files
+.env
+.env*.local
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# OS and Editor
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.idea/
+.vscode/
+
+# Vercel
+.vercel
+
+# Rule 19: Exclude all markdown files except root README.md
+JEJAK-KITA-ANTIGRAVITY-STARTER/
+*.md
+!README.md
+!readme.md
+**/*.md
+!README.md
+
+# Rule 20: Exclude local launcher and startup scripts from git tracking
+start.bat
+strat.bat
+*.bat
+
