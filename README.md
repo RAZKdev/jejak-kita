@@ -24,40 +24,6 @@ A modern, accessible personal travel planner and memory journal web application 
 - **Database & Storage**: Supabase / PostgreSQL (Row-Level Security enabled)
 - **Testing**: Vitest & Testing Library
 
-## Getting Started
-
-### Prerequisites
-- Node.js 18.17+ or later
-- npm or yarn
-
-### Installation
-
-1. Clone repository:
-   ```bash
-   git clone https://github.com/RAZKdev/jejak-kita.git
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Run the development server:
-   ```bash
-   npm run dev
-   ```
-   Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-4. Run automated tests:
-   ```bash
-   npm test
-   ```
-
-5. Build for production:
-   ```bash
-   npm run build
-   ```
-
 ## License
 
 Private / Personal Project.
